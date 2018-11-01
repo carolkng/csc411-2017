@@ -1,6 +1,6 @@
 # CSC411 Project 1
 
-Original project available [here][1]
+Original project available [here](http://www.cs.toronto.edu/~guerzhoy/411/proj1/)
 
 ## Setup
 
